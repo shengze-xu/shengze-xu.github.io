@@ -27,16 +27,19 @@ My research interest are mainly about deep learning theory and ai4science.
 
 # 📝 Publications 
 
-
 # 🎖 Honors and Awards
-- *2021.10* 
-- *2021.09*
+- *2023.06* Zhejiang Provincial Outstanding Graduate
+- *2023.06* Outstanding Graduate of Zhejiang University
+- *2022.10* Zhejiang University First Prize Scholarship (top3%)
+- *2022.09* Outstanding Student of Zhejiang University
+- *2021.10* Zhejiang University First Prize Scholarship (top3%)
+- *2021.09* Outstanding Student of Zhejiang University 
 
 
 # 📖 Educations
 - *2023.09 - Present*, PhD in Mathematics, The Chinese University of Hong Kong, Hong Kong
 - *2019.09 - 2023.06*, B.S. in Mathematics and Applied Mathematics, Zhejiang University, Hangzhou, China.
-- 
+  
 # 💬 Invited Talks
 - *2023.05*, Further studies sharing session, The School of Mathematical Sciences, Zhejiang University
 
