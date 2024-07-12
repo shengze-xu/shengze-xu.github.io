@@ -1,15 +1,9 @@
-
 <h1 align="center">
-AcadHomepage
+Shengze Xu's Personal Homepage
 </h1>
 
-<div align="center">
-
-
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+Built based on [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)
 
 Some examples:
 - [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
 - [Personal Homepage of the author](https://rayeren.github.io/)
-
-
