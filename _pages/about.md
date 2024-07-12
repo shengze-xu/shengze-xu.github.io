@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in the Department of Mathematics at the Chinese University of Hong Kong. Previously, I got my bachelor's degree inMathematics and Applied Mathematics from <a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a> in 2023, with an honors degree from <a href="http://ckc.zju.edu.cn/ckcen/wbout/list.htm" target="_blank">Chu Kochen Honors College</a>.
+I am a PhD student in the Department of Mathematics at the Chinese University of Hong Kong. Previously, I got my bachelor's degree in Mathematics and Applied Mathematics from <a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a> in 2023, with an honors degree from <a href="http://ckc.zju.edu.cn/ckcen/wbout/list.htm" target="_blank">Chu Kochen Honors College</a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest are mainly about deep learning theory and ai4science. 
 
 
 # 🔥 News
