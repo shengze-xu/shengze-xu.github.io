@@ -17,20 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in the Department of Mathematics at the Chinese University of Hong Kong. Previously, I got my bachelor's degree in Mathematics and Applied Mathematics from <a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a> in 2023, with an honors degree from <a href="http://ckc.zju.edu.cn/ckcen/wbout/list.htm" target="_blank">Chu Kochen Honors College</a>.
+I am a PhD student in the Department of Mathematics at the Chinese University of Hong Kong. Previously, I got my bachelor's degree in Mathematics and Applied Mathematics from <a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a> in 2023, with an honors degree from Mix Class, <a href="http://ckc.zju.edu.cn/ckcen/wbout/list.htm" target="_blank">Chu Kochen Honors College</a>.
 
 My research interest are mainly about deep learning theory and ai4science. 
 
 
 # 🔥 News
 #- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
 # 📝 Publications 
 
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2021.10* 
@@ -42,8 +38,7 @@ My research interest are mainly about deep learning theory and ai4science.
 - *2019.09 - 2023.06*, B.S. in Mathematics and Applied Mathematics, Zhejiang University, Hangzhou, China.
 - 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.05*, Further studies sharing session, The School of Mathematical Sciences, Zhejiang University
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, Research Internship, <a href="https://aiit.org.cn/p_enPage" target="_blank">Advanced Institute of Information Technology (AIIT), Peking University</a> Hangzhou, China.
