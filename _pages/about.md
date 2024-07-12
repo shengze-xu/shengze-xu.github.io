@@ -22,7 +22,7 @@ I am a PhD student in the Department of Mathematics at the Chinese University of
 My research interests are mainly about deep learning theory and ai4science. 
 
 # 📝 Working Papers
-- <u><b>Quasi-Equivalence between Width and Depth of neural network</b></u>
+- <u><b>Quasi-Equivalence between Width and Depth of CNN</b></u>
 
 - <u><b>Mean Field Induced Neural Networks</b></u>
 
