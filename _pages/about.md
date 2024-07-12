@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in the Department of Mathematics at the Chinese University of Hong Kong. Previously, I got my bachelor's degree in Mathematics and Applied Mathematics from <a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a> in 2023, with an honors degree from Mix Class, <a href="http://ckc.zju.edu.cn/ckcen/wbout/list.htm" target="_blank">Chu Kochen Honors College</a>.
+I am a PhD student in the Department of Mathematics at the Chinese University of Hong Kong. Previously, I got my bachelor's degree in Mathematics and Applied Mathematics from <a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a> in 2023, with an honors degree from the Mixed Class, <a href="http://ckc.zju.edu.cn/ckcen/wbout/list.htm" target="_blank">Chu Kochen Honors College</a>.
 
 My research interest are mainly about deep learning theory and ai4science. 
 
@@ -28,7 +28,7 @@ My research interest are mainly about deep learning theory and ai4science.
 # 📝 Publications 
 
 # 🎖 Honors and Awards
-- *2023.06* Zhejiang Provincial Outstanding Graduate
+- *2023.06* Zhejiang Provincial Outstanding Graduate (top1%)
 - *2023.06* Outstanding Graduate of Zhejiang University
 - *2022.10* Zhejiang University First Prize Scholarship (top3%)
 - *2022.09* Outstanding Student of Zhejiang University
@@ -37,11 +37,13 @@ My research interest are mainly about deep learning theory and ai4science.
 
 
 # 📖 Educations
-- *2023.09 - Present*, PhD in Mathematics, The Chinese University of Hong Kong, Hong Kong
+- *2023.09 - Present*, Ph.D. in Mathematics, The Chinese University of Hong Kong, Hong Kong
 - *2019.09 - 2023.06*, B.S. in Mathematics and Applied Mathematics, Zhejiang University, Hangzhou, China.
-  
+
+
 # 💬 Invited Talks
 - *2023.05*, Further studies sharing session, The School of Mathematical Sciences, Zhejiang University
+
 
 # 💻 Internships
 - *2022.09 - 2022.11*, Quantitative Researcher, <a href="https://en.uranus-research.com/" target="_blank">Uranus Research</a>, Shanghai, China.
