@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shengze Xu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "ZJU \rightarrow CUHK"
+  bio              : "ZJU → CUHK"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/shengze-xu"
+  github           : "shengze-xu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/shengze-xu-3a2776296/"
+  linkedin         : "shengze-xu-3a2776296/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
