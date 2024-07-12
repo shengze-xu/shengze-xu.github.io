@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in the Department of Mathematics at the Chinese University of Hong Kong. Previously, I got my bachelor's degree in Mathematics and Applied Mathematics from <a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a> in 2023, with an honors degree from the Mixed Class, <a href="http://ckc.zju.edu.cn/ckcen/wbout/list.htm" target="_blank">Chu Kochen Honors College</a>.
+I am a PhD student in the Department of Mathematics at the Chinese University of Hong Kong, advised by [Prof. Tiyeong Zeng](https://www.math.cuhk.edu.hk/~zeng/). Previously, I got my bachelor's degree in Mathematics and Applied Mathematics from <a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a> in 2023, with an honors degree from the Mixed Class, <a href="http://ckc.zju.edu.cn/ckcen/wbout/list.htm" target="_blank">Chu Kochen Honors College</a>.
 
 My research interests are mainly about deep learning theory and ai4science. 
 
