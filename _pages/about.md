@@ -41,4 +41,5 @@ My research interest are mainly about deep learning theory and ai4science.
 - *2023.05*, Further studies sharing session, The School of Mathematical Sciences, Zhejiang University
 
 # 💻 Internships
-- *2019.05 - 2020.02*, Research Internship, <a href="https://aiit.org.cn/p_enPage" target="_blank">Advanced Institute of Information Technology (AIIT), Peking University</a> Hangzhou, China.
+- *2022.09 - 2022.11*, Quantitative Researcher, <a href="https://en.uranus-research.com/" target="_blank">Uranus Research</a>, Shanghai, China.
+- *2022.06 - 2022.09*, Research Internship, <a href="https://aiit.org.cn/p_enPage" target="_blank">Advanced Institute of Information Technology (AIIT), Peking University</a>, Hangzhou, China.
