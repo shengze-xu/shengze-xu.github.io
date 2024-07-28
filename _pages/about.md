@@ -43,7 +43,7 @@ My research interests are mainly about deep learning theory and ai4science.
 
 
 # 💬 Invited Talks
-- *2024.07*, Mean Field Neural Network, Lagrange Research Center for Mathematics and Computation, Paris
+- *2024.07*, Mean Field Neural Network, Lagrange Mathematics and Computation Research Center, Paris
 - *2023.05*, Further studies sharing session, The School of Mathematical Sciences, Zhejiang University
 
 
