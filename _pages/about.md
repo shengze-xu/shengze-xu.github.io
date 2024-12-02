@@ -26,8 +26,6 @@ My research interests are mainly in deep learning theory, such as the approximat
 
 - <u><b>Mean Field Induced Neural Networks</b></u>
 
-- <u><b>A plug-and-play module for medical image segmentation</b></u>
-
 # 🎖 Honors and Awards
 - *2023.06* Zhejiang Provincial Outstanding Graduate (top1%)
 - *2023.06* Outstanding Graduate of Zhejiang University
